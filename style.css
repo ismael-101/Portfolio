@@ -89,7 +89,7 @@ a {
   grid-area: 1 / 2 / 2 / 5;
   min-height: 400px;
   padding: 10rem 6rem;
-  background-image: url(/images/1.jpg);
+  background-image: url(images/1.jpg);
   background-position: center;
   background-size: cover;
   font-weight: thin;
@@ -251,7 +251,7 @@ color: #001336;
       rgba(255, 255, 255, 0.8),
       rgba(255, 255, 255, 0.8)
     ),
-    url(/images/4.jpg);
+    url(images/4.jpg);
   background-size: contain;
   justify-content: center;
   display: flex;
