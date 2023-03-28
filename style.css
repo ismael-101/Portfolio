@@ -58,11 +58,13 @@ a {
   position: fixed;
   top: 0;
   width: 1000%;
+  z-index: 99;
 }
 .top-line p {
   font-size: 1.4rem;
 }
 .bottom-line {
+  z-index: 99;
   display: flex;
   position: fixed;
   bottom: 0;
@@ -109,16 +111,17 @@ a {
   align-self: end;
   padding: 2rem 1rem;
   z-index: -2;
+  width: 1000%;
 }
 .main-par p{
 color: #001336;
 }
 
 .hid {
-  height: 500px;
-  width: 600px;
+  height: 600px;
+  width: 1000%;
   background-color: #e0e4e3;
-  box-shadow: 30px 70px 35px #e0e4e3, -30px 70px 35px #e0e4e3;
+  box-shadow: 30px 130px 100px #e0e4e3, -100px 130px 100px #e0e4e3;
   position: fixed;
   z-index: -1;
 }
@@ -209,7 +212,7 @@ color: #001336;
   padding: 1rem;
 }
 .skills-elements {
-  width: 60%;
+  width: 40%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
