@@ -85,6 +85,9 @@ a {
   position: sticky;
   top: 0;
 }
+.clickMe{
+  font-size: 10px;
+}
 .main-hero {
   display: inline-block;
   grid-area: 2 / 1 / 3 / 5;
