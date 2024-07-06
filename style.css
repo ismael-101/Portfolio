@@ -73,6 +73,9 @@ a {
 .bottom-line p {
   font-size: 1.4rem;
 }
+.clickMe{
+  font-size: 10px;
+}
 .mir {
   color: #be0000;
   transform: rotate(360deg) matrix(-1, 0, 0, -1, -4, 0);
