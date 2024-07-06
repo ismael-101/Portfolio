@@ -302,5 +302,6 @@ a {
   padding: 2rem;
   font-size: 2.2rem;
 }
-span .clickMe{
-  font-size: 1rem;}
+
+.clickMe{
+  font-size: 10px;}
