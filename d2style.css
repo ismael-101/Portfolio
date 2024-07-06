@@ -42,6 +42,9 @@ a {
 }
 
 /* logo & top and bottom logo line */
+.clickMe{
+  font-size: 10px;
+}
 #logo {
   position: fixed;
   left: 3rem;
