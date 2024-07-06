@@ -80,9 +80,7 @@ a {
 }
 
 /* Hero and Nav  */
-.clickMe{
-  font-size: 10px;
-}
+
 .main-container {
   position: sticky;
   top: 0;
@@ -129,6 +127,9 @@ a {
     background-size: cover;
     background-position: top;
   }
+}
+.clickMe{
+  font-size: 10px;
 }
 
 .main-nav ul {
